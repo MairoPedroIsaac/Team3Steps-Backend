@@ -32,4 +32,4 @@ The following tools need to be installed on the system before running this proje
     ```
 
 ## Contributors
-1. [degide](https://github.com/degide)<h.egide@alustudent.com>
+1. [Egide Harerimana](https://github.com/degide) <h.egide@alustudent.com>
